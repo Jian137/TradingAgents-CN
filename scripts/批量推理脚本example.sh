@@ -1,0 +1,2 @@
+export GOOGLE_API_KEY=xxx
+python /home/marisa/workspace/TradingAgents-CN/scripts/batch_stock_llm_analyzer.py --config /home/marisa/workspace/TradingAgents-CN/scripts/batch_stock_config.json --stock-list china_stocks
